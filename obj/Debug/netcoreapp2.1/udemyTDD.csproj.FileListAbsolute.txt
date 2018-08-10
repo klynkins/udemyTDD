@@ -1,0 +1,4 @@
+/Users/katelynncampbell/Documents/udemyTDD/obj/Debug/netcoreapp2.1/udemyTDD.csprojAssemblyReference.cache
+/Users/katelynncampbell/Documents/udemyTDD/obj/Debug/netcoreapp2.1/udemyTDD.csproj.CoreCompileInputs.cache
+/Users/katelynncampbell/Documents/udemyTDD/obj/Debug/netcoreapp2.1/udemyTDD.AssemblyInfoInputs.cache
+/Users/katelynncampbell/Documents/udemyTDD/obj/Debug/netcoreapp2.1/udemyTDD.AssemblyInfo.cs
