@@ -6,8 +6,8 @@ namespace udemyTDD
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            //github test //
+            Console.WriteLine("Test");
+
         }
     }
 }
