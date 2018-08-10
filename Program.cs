@@ -6,7 +6,7 @@ namespace udemyTDD
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Test"); //test//
+            Console.WriteLine("Test");
 
         }
     }
